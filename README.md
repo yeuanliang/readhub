@@ -2,9 +2,9 @@
 
 ## 资源
 
-* [巴菲特致合伙人信+股东信全集](./resources/buffett_letters/README.md)
-* [马克斯的备忘录](./resources/marks_memos/README.md)
-* [贝佐斯致股东信](./resources/bezos_letters/README.md)
+* [Buffett Letters](./resources/buffett_letters/README.md)
+* [Memos from Howard Marks](./resources/marks_memos/README.md)
+* [Jeff Bezos Letters](./resources/bezos_letters/README.md)
 
 ## 文章列表
 
