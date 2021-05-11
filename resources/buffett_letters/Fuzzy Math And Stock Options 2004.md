@@ -1,0 +1,27 @@
+# Fuzzy Math And Stock Options
+
+By Warren BuffettJuly 6, 2004
+
+Until now the record for mathematical lunacy by a legislative body has been held by the Indiana House of Representatives, which in 1897 decreed by a vote of 67 to 0 that pi -- the ratio of the circumference of a circle to its diameter -- would no longer be 3.14159 but instead be 3.2. Indiana schoolchildren momentarily rejoiced over this simplification of their lives. But the Indiana Senate, composed of cooler heads, referred the bill to the Committee for Temperance, and it eventually died.
+
+What brings this episode to mind is that the U.S. House of Representatives is about to consider a bill that, if passed, could cause the mathematical lunacy record to move east from Indiana. First, the bill decrees that a coveted form of corporate pay -- stock options -- be counted as an expense when these go to the chief executive and the other four highest-paid officers in a company, but be disregarded as an expense when they are issued to other employees in the company. Second, the bill says that when a company is calculating the expense of the options issued to the mighty five, it shall assume that stock prices never fluctuate.
+
+Give the bill's proponents an A for imagination -- and for courting contributors -- and a flat-out F for logic.
+
+All seven members of the Financial Accounting Standards Board, all four of the big accounting firms and legions of investment professionals say the two proposals are nonsense. Nevertheless, many House members wish to ignore these informed voices and make Congress the Supreme Accounting Authority. Indeed, the House bill directs the Securities and Exchange Commission to "not recognize as 'generally accepted' any accounting principle established by a standard setting body" that disagrees with the House about the treatment of options.
+
+The House's anointment of itself as the ultimate scorekeeper for investors, it should be noted, comes from an institution that in its own affairs favors Enronesque accounting. Witness the fanciful "sunset" provisions that are used to meet legislative "scoring" requirements. Or regard the unified budget protocol, which applies a portion of annual Social Security receipts to reducing the stated budget deficit while ignoring the concomitant annual costs for benefit accruals.
+
+I have no objection to the granting of options. Companies should use whatever form of compensation best motivates employees -- whether this be cash bonuses, trips to Hawaii, restricted stock grants or stock options. But aside from options, every other item of value given to employees is recorded as an expense. Can you imagine the derision that would be directed at a bill mandating that only five bonuses out of all those given to employees be expensed? Yet that is a true analogy to what the option bill is proposing.
+
+Equally nonsensical is a section in the bill requiring companies to assume, when they are valuing the options granted to the mighty five, that their stocks have zero volatility. I've been investing for 62 years and have yet to meet a stock that doesn't fluctuate. The only reason for making such an Alice-in-Wonderland assumption is to significantly understate the value of the few options that the House wants counted. This undervaluation, in turn, enables chief executives to lie about what they are truly being paid and to overstate the earnings of the companies they run.
+
+Some people contend that options cannot be precisely valued. So what? Estimates pervade accounting. Who knows with precision what the useful life of software, a corporate jet or a machine tool will be? Pension costs, moreover, are even fuzzier, because they require estimates of future mortality rates, pay increases and investment earnings. These guesses are almost invariably wrong, often substantially so. But the inherent uncertainties involved do not excuse companies from making their best estimate of these, or any other, expenses. Legislators should remember that it is better to be approximately right than precisely wrong.
+
+If the House should ignore this logic and legislate that what is an expense for five is not an expense for thousands, there is reason to believe that the Senate -- like the Indiana Senate 107 years ago -- will prevent this folly from becoming law. Sen. Richard Shelby (R-Ala.), chairman of the Senate Banking Committee, has firmly declared that accounting rules should be set by accountants, not by legislators.
+
+Even so, House members who wish to escape the scorn of historians should render the Senate's task moot by killing the bill themselves. Or if they are absolutely determined to meddle with reality, they could attack the obesity problem by declaring that henceforth it will take 24 ounces to make a pound. If even that friendly standard seems unbearable to their constituents, they can exempt all but the fattest five in each congressional district from any measurement of weight.
+
+In the late 1990s, too many managers found it easier to increase "profits" by accounting maneuvers than by operational excellence. But just as the schoolchildren of Indiana learned to work with honest math, so can option-issuing chief executives learn to live with honest accounting. It's high time they step up to that job.
+
+The writer is chief executive officer of Berkshire Hathaway Inc., a diversified holding company, and a director of The Washington Post Co., which has an investment in Berkshire Hathaway.
