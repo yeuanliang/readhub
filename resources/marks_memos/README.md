@@ -1,135 +1,135 @@
 # [Memos from Howard Marks](https://www.oaktreecapital.com/insights/howard-marks-memos)
 
-* Legal Information and Disclosures
-* 1990-10-12 The Route to Performance
-* 1991-04-11 First Quarter Performance
-* 1992-10-08 Microeconomics 101: Supply, Demand and Convertibles
-* 1993-02-15 The Value of Predictions, or Where'd All This Rain Come From?
-* 1994-01-24 Random Thoughts on the Identification of Investment Opportunities
-* 1994-02-17 Risk in Today's Markets
-* 1994-04-11 "Risk in Today's Markets" Revisited
-* 1994-07-15 How Does an Inefficient Market Get That Way?
-* 1995-05-26 How the Game Should Be Played
-* 1996-07-22 The Value of Predictions II
-* 1996-11-25 Will It Be Different This Time?
-* 1997-09-03 Are You An Investor or a Speculator?
-* 1998-01-08 Who Knew?
-* 1998-10-09 Genius Isn't Enough
-* 1999-04-15 How's the Market?
-* 2000-01-02 bubble.com
-* 2000-05-01 Irrational Exuberance
-* 2000-11-16 Investment Miscellany
-* 2000-12-31 We're Not In 1999 Anymore, Toto
-* 2001-04-10 Safety First...But Where?
-* 2001-07-11 What's It All About, Alpha?
-* 2001-09-16 Notes from New York
-* 2001-10-04 What Lies Ahead?
-* 2001-11-20 You Can't Predict. You Can Prepare.
-* 2002-03-14 Learning From Enron
-* 2002-05-31 The Realist's Creed
-* 2002-07-26 Quo Vadis?
-* 2002-09-04 Etorre's Wisdom
-* 2002-11-11 Returns and How They Get That Way
-* 2003-03-11 Whad’Ya Know?
-* 2003-05-16 What's Going On?
-* 2003-07-01 The Most Important Thing
-* 2003-09-05 What’s Your Game Plan?
-* 2003-10-02 The Feeling's Mutual
-* 2004-03-16 Hey, Steward!!
-* 2004-05-07 Us and Them
-* 2004-07-21 The Happy Medium
-* 2004-10-06 Hedge Funds: A Case for Caution
-* 2004-10-27 Risk and Return Today
-* 2005-04-11 Oaktree at Ten
-* 2005-05-06 There They Go Again
-* 2005-06-06 A Case in Point
-* 2005-10-17 Hindsight First, Please
-* 2006-01-19 Risk
-* 2006-03-27 It Is What It Is
-* 2006-06-13 Returns, Absolute Returns and Risk
-* 2006-07-12 You Can’t Eat IRR
-* 2006-09-07 Dare to Be Great
-* 2006-10-19 The New Paradigm
-* 2006-12-07 Pigweed
-* 2007-02-14 The Race to the Bottom
-* 2007-04-26 Everyone Knows
-* 2007-07-16 It’s All Good
-* 2007-07-30 It’s All Good . . . Really?
-* 2007-09-10 Now It’s All Bad?
-* 2007-12-17 No Different This Time – The Lessons of ‘07
-* 2008-01-10 Now What?
-* 2008-02-20 Whodunit
-* 2008-03-18 The Tide Goes Out
-* 2008-05-16 The Aviary
-* 2008-07-31 Doesn’t Make Sense
-* 2008-08-28 What Worries Me
-* 2008-09-19 Nobody Knows
-* 2008-09-24 Plan B
-* 2008-10-15 The Limits to Negativism
-* 2008-12-17 Volatility + Leverage = Dynamite
-* 2009-01-09 The Long View
-* 2009-03-05 Will It Work?
-* 2009-07-08 So Much That’s False and Nutty
-* 2009-11-10 Touchstones
-* 2010-01-22 Tell Me I’m Wrong
-* 2010-03-17 I’d Rather Be Wrong
-* 2010-05-12 Warning Flags
-* 2010-07-19 It’s Greek to Me
-* 2010-09-10 Hemlines
-* 2010-12-01 Open and Shut
-* 2010-12-17 All That Glitters
-* 2011-03-02 On Regulation
-* 2011-05-25 How Quickly They Forget
-* 2011-07-21 Down to the Wire
-* 2011-09-07 What's Behind the Downturn?
-* 2011-11-16 Tt's All Very Taxing
-* 2012-01-10 What Can We Do For You?
-* 2012-02-15 Assessing Performance Records -- A Case Study
-* 2012-03-19 Déjà Vu All Over Again
-* 2012-06-20 Tt's All a Big Mistake
-* 2012-09-11 On Uncertain Ground
-* 2012-11-09 A Fresh Start (Hopefully)
-* 2013-02-21 High Yield Bonds Today
-* 2013-03-13 The Outlook for Equities
-* 2013-08-05 The Role of Confidence
-* 2013-11-26 The Race Is On
-* 2014-01-16 Getting Lucky
-* 2014-04-08 Dare to Be Great II
-* 2014-09-03 Risk Revisited
-* 2014-12-18 The Lessons of Oil
-* 2015-03-25 Liquidity
-* 2015-06-08 Risk Revisited Again
-* 2015-09-09 It’s Not Easy
-* 2015-10-22 Inspiration from the World of Sports
-* 2016-01-14 On the Couch
-* 2016-01-19 What Does the Market Know?
-* 2016-05-26 Economic Reality
-* 2016-08-17 Political Reality
-* 2016-11-07 Implications of the Election
-* 2016-11-14 Go Figure!
-* 2017-01-10 Expert Opinion
-* 2017-04-18 Lines in the Sand
-* 2017-07-26 There They Go Again...Again
-* 2017-09-07 Yet Again?
-* 2018-01-23 Latest Thinking
-* 2018-06-18 Investing Without People
-* 2018-09-26 The Seven Worst Words in the World
-* 2019-01-30 Political Reality Meets Economic Reality
-* 2019-04-01 Growing the Pie
-* 2019-06-12 This Time It’s Different
-* 2019-07-26 On the Other Hand
-* 2019-10-17 Mysterious
-* 2020-01-13 You Bet!
-* 2020-03-03 Nobody Knows II
-* 2020-03-19 Latest Update
-* 2020-03-31 Which Way Now?
-* 2020-04-06 Calibrating
-* 2020-04-14 Knowledge of the Future
-* 2020-05-11 Uncertainty
-* 2020-05-28 Uncertainty II
-* 2020-06-11 Not Enough
-* 2020-06-18 The Anatomy of a Rally
-* 2020-08-05 Time for Thinking
-* 2020-10-13 Coming into Focus
-* 2021-01-11 Something of Value
-* 2021-03-04 2020 in Review
+* [Legal Information and Disclosures](./Legal%20Information%20and%20Disclosures.pdf)
+* [1990-10-12 The Route to Performance](./1990-10-12-the-route-to-performance.pdf)
+* [1991-04-11 First Quarter Performance](./1991-04-11-first-quarter-client-performance.pdf)
+* [1992-10-08 Microeconomics 101: Supply, Demand and Convertibles](./1992-10-08-microeconomics.pdf)
+* [1993-02-15 The Value of Predictions, or Where'd All This Rain Come From?](./1993-02-15-the-value-of-predictions-or-where-39-d-all-this-rain-come-from.pdf)
+* [1994-01-24 Random Thoughts on the Identification of Investment Opportunities](./1994-01-24-random-thoughts-on-the-identification-of-inv-opportunities.pdf)
+* [1994-02-17 Risk in Today's Markets](./1994-02-17-risk-in-todays-markets.pdf)
+* [1994-04-11 "Risk in Today's Markets" Revisited](./1994-04-11-risk-in-todays-markets-revisted.pdf)
+* [1994-07-15 How Does an Inefficient Market Get That Way?](./1994-07-15-how-does-an-inefficient-market-get-that-way.pdf)
+* [1995-05-26 How the Game Should Be Played](./1995-05-26-how-the-game-should-be-played.pdf)
+* [1996-07-22 The Value of Predictions II](./1996-07-22-the-value-of-predictions-ii-or-give-that-man-a-cigar.pdf)
+* [1996-11-25 Will It Be Different This Time?](./1996-11-25-will-it-be-different-this-time.pdf)
+* [1997-09-03 Are You An Investor or a Speculator?](./1997-09-03-are-you-an-investor-or-a-speculator.pdf)
+* [1998-01-08 Who Knew?](./1998-01-08-who-knew.pdf)
+* [1998-10-09 Genius Isn't Enough](./1998-10-09-genius-isn-39-t-enough.pdf)
+* [1999-04-15 How's the Market?](./1999-04-15-hows-the-market.pdf)
+* [2000-01-02 bubble.com](./2000-01-02-bubble.pdf)
+* [2000-05-01 Irrational Exuberance](./2000-05-01-irrational-exuberance.pdf)
+* [2000-11-16 Investment Miscellany](./2000-11-16-investment-miscellany.pdf)
+* [2000-12-31 We're Not In 1999 Anymore, Toto](./2000-12-31-were-not-in-1999-anymore.pdf)
+* [2001-04-10 Safety First...But Where?](./2001-04-10-safety-first-but-where.pdf)
+* [2001-07-11 What's It All About, Alpha?](./2001-07-11-whats-it-all-about-alpha.pdf)
+* [2001-09-16 Notes from New York](./2001-09-16-notes-from-ny.pdf)
+* [2001-10-04 What Lies Ahead?](./2001-10-04-what-lies-ahead.pdf)
+* [2001-11-20 You Can't Predict. You Can Prepare.](./2001-11-20-you-cant-predict-you-can-prepare.pdf)
+* [2002-03-14 Learning From Enron](./2002-03-14-learning-from-enron.pdf)
+* [2002-05-31 The Realist's Creed](./2002-05-31-the-realists-creed.pdf)
+* [2002-07-26 Quo Vadis?](./2002-07-26-quo-vadis.pdf)
+* [2002-09-04 Etorre's Wisdom](./2002-09-04-etorres-wisdom.pdf)
+* [2002-11-11 Returns and How They Get That Way](./2002-11-11-returns-and-how-they-get-that-way.pdf)
+* [2003-03-11 Whad’Ya Know?](./2003-03-11-whad-ya-know.pdf)
+* [2003-05-16 What's Going On?](./2003-05-16-whats-going-on.pdf)
+* [2003-07-01 The Most Important Thing](./2003-07-01-the-most-important-thing.pdf)
+* [2003-09-05 What’s Your Game Plan?](./2003-09-05-whats-your-game-plan.pdf)
+* [2003-10-02 The Feeling's Mutual](./2003-10-02-the-feelings-mutual.pdf)
+* [2004-03-16 Hey, Steward!!](./2004-03-16-hey-steward!!.pdf)
+* [2004-05-07 Us and Them](./2004-05-07-us-and-them.pdf)
+* [2004-07-21 The Happy Medium](./2004-07-21-the-happy-medium.pdf)
+* [2004-10-06 Hedge Funds: A Case for Caution](./2004-10-06-hedge-funds-a-case-for-caution.pdf)
+* [2004-10-27 Risk and Return Today](./2004-10-27-risk-and-return-today.pdf)
+* [2005-04-11 Oaktree at Ten](./2005-04-11-oaktree-at-ten.pdf)
+* [2005-05-06 There They Go Again](./2005-05-06-there-they-go-again.pdf)
+* [2005-06-06 A Case in Point](./2005-06-06-a-case-in-point.pdf)
+* [2005-10-17 Hindsight First, Please](./2005-10-17-hindsight-first-please-or-what-where-they-thinking.pdf)
+* [2006-01-19 Risk](./2006-01-19-risk.pdf)
+* [2006-03-27 It Is What It Is](./2006-03-27-it-is-what-it-is.pdf)
+* [2006-06-13 Returns, Absolute Returns and Risk](./2006-06-13-returns-absolute-returns-and-risk.pdf)
+* [2006-07-12 You Can’t Eat IRR](./2006-07-12-you-cant-eat-irr.pdf)
+* [2006-09-07 Dare to Be Great](./2006-09-07-dare-to-be-great.pdf)
+* [2006-10-19 The New Paradigm](./2006-10-19-the-new-paradigm.pdf)
+* [2006-12-07 Pigweed](./2006-12-07-pigweed.pdf)
+* [2007-02-14 The Race to the Bottom](./2007-02-14-the-race-to-the-bottom.pdf)
+* [2007-04-26 Everyone Knows](./2007-04-26-everyone-knows.pdf)
+* [2007-07-16 It’s All Good](./2007-07-16-its-all-good.pdf)
+* [2007-07-30 It’s All Good . . . Really?](./2007-07-30-its-all-good-really.pdf)
+* [2007-09-10 Now It’s All Bad?](./2007-09-10-now-its-all-bad.pdf)
+* [2007-12-17 No Different This Time – The Lessons of ‘07](./2007-12-17-no-different-this-time-the-lessons-of-07.pdf)
+* [2008-01-10 Now What?](./2008-01-10-now-what.pdf)
+* [2008-02-20 Whodunit](./2008-02-20-whodunit.pdf)
+* [2008-03-18 The Tide Goes Out](./2008-03-18-the-tide-goes-out.pdf)
+* [2008-05-16 The Aviary](./2008-05-16-the-aviary.pdf)
+* [2008-07-31 Doesn’t Make Sense](./2008-07-31-doesnt-make-sense.pdf)
+* [2008-08-28 What Worries Me](./2008-08-28-what-worries-me.pdf)
+* [2008-09-19 Nobody Knows](./2008-09-19-nobody-knows.pdf)
+* [2008-09-24 Plan B](./2008-09-24-plan-b.pdf)
+* [2008-10-15 The Limits to Negativism](./2008-10-15-the-limits-to-negativism.pdf)
+* [2008-12-17 Volatility + Leverage = Dynamite](./2008-12-17-volatility-leverage-dynamite.pdf)
+* [2009-01-09 The Long View](./2009-01-09-the-long-view.pdf)
+* [2009-03-05 Will It Work?](./2009-03-05-will-it-work.pdf)
+* [2009-07-08 So Much That’s False and Nutty](./2009-07-08-so-much-thats-false-nutty.pdf)
+* [2009-11-10 Touchstones](./2009-11-10-touchstones.pdf)
+* [2010-01-22 Tell Me I’m Wrong](./2010-01-22-tell-me-im-wrong.pdf)
+* [2010-03-17 I’d Rather Be Wrong](./2010-03-17-id-rather-be-wrong.pdf)
+* [2010-05-12 Warning Flags](./2010-05-12-warning-flags.pdf)
+* [2010-07-19 It’s Greek to Me](./2010-07-19-its-greek-to-me.pdf)
+* [2010-09-10 Hemlines](./2010-09-10-hemlines.pdf)
+* [2010-12-01 Open and Shut](./2010-12-01-open-and-shut.pdf)
+* [2010-12-17 All That Glitters](./2010-12-17-all-that-glitters.pdf)
+* [2011-03-02 On Regulation](./2011-03-02-on-regulation.pdf)
+* [2011-05-25 How Quickly They Forget](./2011-05-25-how-quickly-they-forget.pdf)
+* [2011-07-21 Down to the Wire](./2011-07-21-down-to-the-wire.pdf)
+* [2011-09-07 What's Behind the Downturn?](./2011-09-07-whats-behind-the-downturn.pdf)
+* [2011-11-16 Tt's All Very Taxing](./2011-11-16-its-all-very-taxing.pdf)
+* [2012-01-10 What Can We Do For You?](./2012-01-10-what-can-we-do-for-you.pdf)
+* [2012-02-15 Assessing Performance Records -- A Case Study](./2012-02-15-assessing-performance-records-a-case-study.pdf)
+* [2012-03-19 Déjà Vu All Over Again](./2012-03-19-déjà-vu-all-over-again.pdf)
+* [2012-06-20 Tt's All a Big Mistake](./2012-06-20-its-all-a-big-mistake.pdf)
+* [2012-09-11 On Uncertain Ground](./2012-09-11-on-uncertain-ground.pdf)
+* [2012-11-09 A Fresh Start (Hopefully)](./2012-11-09-a-fresh-start-hopefully.pdf)
+* [2013-02-21 High Yield Bonds Today](./2013-02-21-high-yield-bonds-today.pdf)
+* [2013-03-13 The Outlook for Equities](./2013-03-13-the-outlook-for-equities.pdf)
+* [2013-08-05 The Role of Confidence](./2013-08-05-the-role-of-confidence.pdf)
+* [2013-11-26 The Race Is On](./2013-11-26-the-race-is-on.pdf)
+* [2014-01-16 Getting Lucky](./2014-01-16-getting-lucky.pdf)
+* [2014-04-08 Dare to Be Great II](./2014-04-08-dare-to-be-great-ii.pdf)
+* [2014-09-03 Risk Revisited](./2014-09-03-risk-revisited.pdf)
+* [2014-12-18 The Lessons of Oil](./2014-12-18-the-lessons-of-oil.pdf)
+* [2015-03-25 Liquidity](./2015-03-25-liquidity.pdf)
+* [2015-06-08 Risk Revisited Again](./2015-06-08-risk-revisited-again.pdf)
+* [2015-09-09 It’s Not Easy](./2015-09-09-its-not-easy.pdf)
+* [2015-10-22 Inspiration from the World of Sports](./2015-10-22-inspiration-from-the-world-of-sports.pdf)
+* [2016-01-14 On the Couch](./2016-01-14-on-the-couch.pdf)
+* [2016-01-19 What Does the Market Know?](./2016-01-19-what-does-the-market-know.pdf)
+* [2016-05-26 Economic Reality](./2016-05-26-economic-reality.pdf)
+* [2016-08-17 Political Reality](./2016-08-17-political-reality.pdf)
+* [2016-11-07 Implications of the Election](./2016-11-07-implications-of-the-election.pdf)
+* [2016-11-14 Go Figure!](./2016-11-14-go-figure.pdf)
+* [2017-01-10 Expert Opinion](./2017-01-10-expert-opinion.pdf)
+* [2017-04-18 Lines in the Sand](./2017-04-18-lines-in-the-sand.pdf)
+* [2017-07-26 There They Go Again...Again](./2017-07-26-there-they-go-again-again.pdf)
+* [2017-09-07 Yet Again?](./2017-09-07-yet-again.pdf)
+* [2018-01-23 Latest Thinking](./2018-01-23-latest-thinking.pdf)
+* [2018-06-18 Investing Without People](./2018-06-18-investing-without-people.pdf)
+* [2018-09-26 The Seven Worst Words in the World](./2018-09-26-the-seven-worst-words-in-the-world.pdf)
+* [2019-01-30 Political Reality Meets Economic Reality](./2019-01-30-political-reality-meets-economic-reality.pdf)
+* [2019-04-01 Growing the Pie](./2019-04-01-growing-the-pie.pdf)
+* [2019-06-12 This Time It’s Different](./2019-06-12-this-time-its-different.pdf)
+* [2019-07-26 On the Other Hand](./2019-07-26-on-the-other-hand.pdf)
+* [2019-10-17 Mysterious](./2019-10-17-mysterious.pdf)
+* [2020-01-13 You Bet!](./2020-01-13-you-bet.pdf)
+* [2020-03-03 Nobody Knows II](./2020-03-03-nobody-knows-ii.pdf)
+* [2020-03-19 Latest Update](./2020-03-19-latest-update.pdf)
+* [2020-03-31 Which Way Now?](./2020-03-31-which-way-now.pdf)
+* [2020-04-06 Calibrating](./2020-04-06-calibrating.pdf)
+* [2020-04-14 Knowledge of the Future](./2020-04-14-knowledge-of-the-future.pdf)
+* [2020-05-11 Uncertainty](./2020-05-11-uncertainty.pdf)
+* [2020-05-28 Uncertainty II](./2020-05-28-uncertainty-ii.pdf)
+* [2020-06-11 Not Enough](./2020-06-11-not-enough.pdf)
+* [2020-06-18 The Anatomy of a Rally](./2020-06-18-the-anatomy-of-a-rally.pdf)
+* [2020-08-05 Time for Thinking](./2020-08-05-time-for-thinking.pdf)
+* [2020-10-13 Coming into Focus](./2020-10-13-coming-into-focus.pdf)
+* [2021-01-11 Something of Value](./2021-01-11-something-of-value.pdf)
+* [2021-03-04 2020 in Review](./2021-03-04-2020-in-review.pdf)
