@@ -30,7 +30,7 @@
 # Phantom's Gift
 
 By Arthur L. Simpson  
-link：[FuturesMag](http://www.futuresmag.com/)
+source：[FuturesMag](http://www.futuresmag.com/author/arthur-l-simpson)
 
 ## About the author
 
