@@ -5,6 +5,7 @@
 * [Buffett Letters](./resources/buffett_letters/README.md)
 * [Memos from Howard Marks](./resources/marks_memos/README.md)
 * [Jeff Bezos Letters](./resources/bezos_letters/README.md)
+* [Phantom's Gift](./resources/phantom_gift.md)
 
 ## 文章列表
 
