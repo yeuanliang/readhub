@@ -2560,11 +2560,11 @@ Good trading to all of you! I shall watch you trade and shall always be your sha
 
 Just when you know you have everything covered to start your trading career or to continue the one you already have started, you find you have a few more questions you would like to have answered. We will get Phantom's view on a few of those important questions yet unanswered. Questions like a few of the following are perhaps in your minds:
 
-* When you spill a soft drink on your mouse pad, why does it always soak in, but good trading methods take forever to soak into our brains?
-* What kind of system should I use to trade?
-* Should I buy a good system or come up with one of my own?
-* How do I trade to not chase the market all the time?
-* Why do I always end up with the bad positions but seldom get the good positions and the big moves?
+- When you spill a soft drink on your mouse pad, why does it always soak in, but good trading methods take forever to soak into our brains?
+- What kind of system should I use to trade?
+- Should I buy a good system or come up with one of my own?
+- How do I trade to not chase the market all the time?
+- Why do I always end up with the bad positions but seldom get the good positions and the big moves?
 
 Other than your questions, we should ask Phantom some of the questions he first had and has now in trading. Answers are usually from different views. It helps to get other views for our questions. A good decision is one that can be made from having good choices.
 
