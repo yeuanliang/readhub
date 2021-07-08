@@ -306,12 +306,12 @@ The work performed requires massive amounts of processing power contributed by m
 
 How could this much energy be justified? And what will bitcoin consume when a billion people are using it?  The dollar works just fine, right? Well that’s just the thing, it doesn’t. These resources are being devoted to fix a problem most don’t understand exists, which makes justifying a derivative cost challenging. To help ease the pain of environmentalists and social justice warriors, we often point out a number of countervailing narratives to make it seem more palatable:
 
-* A significant portion of bitcoin’s energy consumption is generated from renewable resources.
-* Bitcoin will spur innovation in the development of renewable energy technology & resources.
-* Bitcoin consumes energy that is otherwise wasted, if not, [flared into the atmosphere](https://www.upstreamdata.ca/).
-* Bitcoin consumes only the energy that the free market will bear at a free market rate.
-* Bitcoin consumes energy resources that would otherwise not be economic to develop.
-* The nature of bitcoin energy demand will improve the efficiency of energy grids.
+- A significant portion of bitcoin’s energy consumption is generated from renewable resources.
+- Bitcoin will spur innovation in the development of renewable energy technology & resources.
+- Bitcoin consumes energy that is otherwise wasted, if not, [flared into the atmosphere](https://www.upstreamdata.ca/).
+- Bitcoin consumes only the energy that the free market will bear at a free market rate.
+- Bitcoin consumes energy resources that would otherwise not be economic to develop.
+- The nature of bitcoin energy demand will improve the efficiency of energy grids.
 
 These considerations help enumerate why a simple view that bitcoin’s energy consumption is necessarily wasteful or necessarily bad for the environment fails the proverbial test. However, without an appreciation for the enormity of the monetary problem bitcoin intends to solve, the marginal cost could never be justified. Bitcoin represents a solution to the systemic issues that exist within our legacy monetary framework and it relies on energy consumption to function. Economic stability depends on the function of money and bitcoin provides a more sound monetary framework which is why there is no more important long-term use of energy than securing the bitcoin network. So rather than expand on the many individual counterpoints to the mainstream narrative, there is no better place to focus than the first principle problem itself: the money problem or the global QE (quantitative easing) problem, [see here](https://www.unchained-capital.com/blog/enders-game/).
 
@@ -350,7 +350,7 @@ Now, many sitting comfortably in the developed world will look at Venezuela and 
 
 ![hFed-QE](../images/gradually_then_suddenly_4-4.png)
 
-To highlight the U.S. as an example, the Federal Reserve expanded the monetary base from $180 billion in 1984 to a peak of $4.2 trillion following QE3, an increase of 23x. Because of the nature of the Fed’s credit-based economy, the economic distortion of this debasement occurred gradually (see here) until the financial crisis which occurred suddenly, and as a function of quantitative easing, we presently sit further out on the same ledge. If you believe the developed world is not in a precarious situation or not subject to a similar monetary foundation as Venezuela, I would respectfully point to patients zero: the Fed, the ECB and the Bank of Japan. Often, faith placed in these institutions is blind to both first principles and common sense, but consider the quote below from a resident Fed economist during the aftermath of the financial crisis and  as the Fed was in the middle innings of creating $3.6 trillion new dollars as part of quantitative easing:
+To highlight the U.S. as an example, the Federal Reserve expanded the monetary base from $180 billion in 1984 to a peak of $4.2 trillion following QE3, an increase of 23x. Because of the nature of the Fed’s credit-based economy, the economic distortion of this debasement occurred gradually ([see here](https://www.unchained-capital.com/blog/enders-game/)) until the financial crisis which occurred suddenly, and as a function of quantitative easing, we presently sit further out on the same ledge. If you believe the developed world is not in a precarious situation or not subject to a similar monetary foundation as Venezuela, I would respectfully point to patients zero: the Fed, the ECB and the Bank of Japan. Often, faith placed in these institutions is blind to both first principles and common sense, but consider the quote below from a resident Fed economist during the aftermath of the financial crisis and  as the Fed was in the middle innings of creating $3.6 trillion new dollars as part of quantitative easing:
 
 >“Also, I want to just emphasize that I think the gaps in our understanding of the interactions between the financial sector and the real sector are profound”
 >David Wilcox – Fed Economist (August 2011)
@@ -693,9 +693,9 @@ Despite being digital, bitcoin is designed to provide absolute scarcity, which i
 
 However, it is insufficient to simply claim that bitcoin is finitely scarce; nor should anyone simply accept this as fact. It is important to understand how and why that is the case. Why can’t more than 21 million bitcoin be created and why can’t it be copied? Why is bitcoin secure and why can’t it be manipulated? While there are countless building blocks that collectively allow bitcoin to function with a reliably fixed supply, there are three key columns of security within the bitcoin network which are woven together and reinforced by the economic incentives of the currency itself:
 
-* Network Consensus & Full Nodes: enforce common set of governing rules
-* Mining & Proof-of-Work: validate transaction history, anchor bitcoin security in the physical world
-* Private Keys: secures the unit of value, ensures ownership is independent from validation
+- Network Consensus & Full Nodes: enforce common set of governing rules
+- Mining & Proof-of-Work: validate transaction history, anchor bitcoin security in the physical world
+- Private Keys: secures the unit of value, ensures ownership is independent from validation
 
 ### What Secures Bitcoin – Network Consensus & Full Nodes
 
