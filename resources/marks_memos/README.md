@@ -133,3 +133,4 @@
 * [2020-10-13 Coming into Focus](./2020-10-13-coming-into-focus.pdf)
 * [2021-01-11 Something of Value](./2021-01-11-something-of-value.pdf)
 * [2021-03-04 2020 in Review](./2021-03-04-2020-in-review.pdf)
+* [2021-07-29 Thinking About Macro](./2021-07-29-thinking_about_macro.pdf)
