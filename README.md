@@ -6,7 +6,6 @@
 * [Memos from Howard Marks](./resources/marks_memos/README.md)
 * [Jeff Bezos Letters](./resources/bezos_letters/README.md)
 * [Phantom's Gift](./resources/phantom_gift.md)
-* [庄子 魏牟版初始本](./resources/zhuangzi.md)
 
 ## 文章列表
 
