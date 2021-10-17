@@ -15,3 +15,5 @@
 * [遇见许良英先生](./readings/yu_jian_xu_liang_ying_xian_sheng.md)
 * [Gradually, Then Suddenly](./readings/gradually_then_suddenly.md)
 * [The Use of Knowledge in Society](./readings/the_use_of_knowledge_in_society.md)
+* [辛亥革命百年祭：以“王”僭“帝”的秦汉秘史](./readings/xin_hai_bai_nian.md)
+* [現代學術研究的特點究竟是什麼？——兼談我為什麼說余英時先生有學識沒有學術](./readings/xian_dai_xue_shu_yan_jiu.md)
