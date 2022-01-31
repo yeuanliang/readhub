@@ -135,3 +135,4 @@
 * [2021-03-04 2020 in Review](./2021-03-04-2020-in-review.pdf)
 * [2021-07-29 Thinking About Macro](./2021-07-29-thinking_about_macro.pdf)
 * [2021-11-23 The Winds of Change](./2021-11-23-The-Winds-of-Change.pdf)
+* [2022-01-14 Selling Out](./2022-01-13-Selling-Out.pdf)
