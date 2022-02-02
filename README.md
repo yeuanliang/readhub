@@ -6,6 +6,10 @@
 * [Memos from Howard Marks](./resources/marks_memos/README.md)
 * [Jeff Bezos Letters](./resources/bezos_letters/README.md)
 * [Phantom's Gift](./resources/phantom_gift.md)
+* [老子](./resources/laozi.md)
+* [庄子](./resources/zhuangzi.md)
+* [论语](./resources/lunyu.md)
+* [孟子](./resources/mengzi.md)
 
 ## 文章列表
 
