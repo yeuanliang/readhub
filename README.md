@@ -10,6 +10,8 @@
 * [庄子](./resources/zhuangzi.md)
 * [论语](./resources/lunyu.md)
 * [孟子](./resources/mengzi.md)
+* [周易](./resources/zhouyi.md)
+* [64卦](./resources/64gua.md)
 
 ## 文章列表
 
