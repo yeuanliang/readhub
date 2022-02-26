@@ -184,6 +184,7 @@
 * 2020 letter
   * A Tale of Two Cities
   * The Berkshire Partnership
+* 2021 letter
 
 ## Resource
 
