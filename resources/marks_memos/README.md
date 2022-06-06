@@ -137,3 +137,4 @@
 * [2021-11-23 The Winds of Change](./2021-11-23-The-Winds-of-Change.pdf)
 * [2022-01-13 Selling Out](./2022-01-13-Selling-Out.pdf)
 * [2022-03-23 The Pendulum in International Affairs](./2022-03-23-the-pendulum-in-intl-affairs.pdf)
+* [2022-05-26 Bull Market Rhymes](./2022-05-26-Bull-Market-Rhymes.pdf)
