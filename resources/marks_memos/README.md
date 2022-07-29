@@ -138,4 +138,5 @@
 * [2022-01-13 Selling Out](./2022-01-13-Selling-Out.pdf)
 * [2022-03-23 The Pendulum in International Affairs](./2022-03-23-the-pendulum-in-intl-affairs.pdf)
 * [2022-05-26 Bull Market Rhymes](./2022-05-26-Bull-Market-Rhymes.pdf)
-* [2022-06-23 Conversation at Panmure House](./2022-06-23_Conversation-at-Panmure-House.pdf)
+* [2022-06-23 Conversation at Panmure House](./2022-06-23-Conversation-at-Panmure-House.pdf)
+* [2022-07-26 I Beg to Differ](2022-07-26-I-Beg-to-Differ.pdf)
