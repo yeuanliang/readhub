@@ -1,6 +1,5 @@
 # [Memos from Howard Marks](https://www.oaktreecapital.com/insights/howard-marks-memos)
 
-* [Legal Information and Disclosures](./Legal%20Information%20and%20Disclosures.pdf)
 * [1990-10-12 The Route to Performance](./1990-10-12-the-route-to-performance.pdf)
 * [1991-04-11 First Quarter Performance](./1991-04-11-first-quarter-client-performance.pdf)
 * [1992-10-08 Microeconomics 101: Supply, Demand and Convertibles](./1992-10-08-microeconomics.pdf)
@@ -89,6 +88,7 @@
 * [2012-06-20 Tt's All a Big Mistake](./2012-06-20-its-all-a-big-mistake.pdf)
 * [2012-09-11 On Uncertain Ground](./2012-09-11-on-uncertain-ground.pdf)
 * [2012-11-09 A Fresh Start (Hopefully)](./2012-11-09-a-fresh-start-hopefully.pdf)
+* [2013-01-07 Ditto](./2013-01-07-ditto.pdf)
 * [2013-02-21 High Yield Bonds Today](./2013-02-21-high-yield-bonds-today.pdf)
 * [2013-03-13 The Outlook for Equities](./2013-03-13-the-outlook-for-equities.pdf)
 * [2013-08-05 The Role of Confidence](./2013-08-05-the-role-of-confidence.pdf)
@@ -133,7 +133,7 @@
 * [2020-10-13 Coming into Focus](./2020-10-13-coming-into-focus.pdf)
 * [2021-01-11 Something of Value](./2021-01-11-something-of-value.pdf)
 * [2021-03-04 2020 in Review](./2021-03-04-2020-in-review.pdf)
-* [2021-07-29 Thinking About Macro](./2021-07-29-thinking_about_macro.pdf)
+* [2021-07-29 Thinking About Macro](./2021-07-29-Thinking-About-Macro.pdf)
 * [2021-11-23 The Winds of Change](./2021-11-23-The-Winds-of-Change.pdf)
 * [2022-01-13 Selling Out](./2022-01-13-Selling-Out.pdf)
 * [2022-03-23 The Pendulum in International Affairs](./2022-03-23-the-pendulum-in-intl-affairs.pdf)
