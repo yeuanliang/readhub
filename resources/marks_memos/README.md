@@ -140,3 +140,4 @@
 * [2022-05-26 Bull Market Rhymes](./2022-05-26-Bull-Market-Rhymes.pdf)
 * [2022-06-23 Conversation at Panmure House](./2022-06-23-Conversation-at-Panmure-House.pdf)
 * [2022-07-26 I Beg to Differ](2022-07-26-I-Beg-to-Differ.pdf)
+* [Illusion of knowledge](./2022-09-08-Illusion-of-Knowledge.pdf)
