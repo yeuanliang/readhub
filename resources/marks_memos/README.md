@@ -142,3 +142,4 @@
 * [2022-07-26 I Beg to Differ](2022-07-26-I-Beg-to-Differ.pdf)
 * [Illusion of knowledge](./2022-09-08-Illusion-of-Knowledge.pdf)
 * [2022-11-22 What Really Matters](./2022-11-22-What-Really-Matters.pdf)
+* [2022-12-13 Sea Change](./2022-12-13-Sea-Change.pdf)
