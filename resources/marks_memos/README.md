@@ -52,6 +52,7 @@
 * [2006-12-07 Pigweed](./2006-12-07-pigweed.pdf)
 * [2007-02-14 The Race to the Bottom](./2007-02-14-the-race-to-the-bottom.pdf)
 * [2007-04-26 Everyone Knows](./2007-04-26-everyone-knows.pdf)
+
 * [2007-07-16 It’s All Good](./2007-07-16-its-all-good.pdf)
 * [2007-07-30 It’s All Good . . . Really?](./2007-07-30-its-all-good-really.pdf)
 * [2007-09-10 Now It’s All Bad?](./2007-09-10-now-its-all-bad.pdf)
@@ -143,3 +144,4 @@
 * [Illusion of knowledge](./2022-09-08-Illusion-of-Knowledge.pdf)
 * [2022-11-22 What Really Matters](./2022-11-22-What-Really-Matters.pdf)
 * [2022-12-13 Sea Change](./2022-12-13-Sea-Change.pdf)
+* [2023-04-17 Lessons from SVB](./2023-04-17-Lessons-from-SVB.pdf)
