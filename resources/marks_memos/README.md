@@ -147,3 +147,4 @@
 * [2023-04-17 Lessons from SVB](./2023-04-17-Lessons-from-SVB.pdf)
 * [2023-07-10 Taking the Temperature](./2023-07-10-taking-the-temperature.pdf)
 * [2023-09-12 Fewer Losers or More Winners](./2023-09-12-fewer-losers-more-winners.pdf)
+* [2023-10-11 Further Thoughts on Sea Change](./2023-10-11-further-thoughts-on-sea-change.pdf)
