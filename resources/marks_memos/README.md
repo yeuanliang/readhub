@@ -148,3 +148,4 @@
 * [2023-07-10 Taking the Temperature](./2023-07-10-taking-the-temperature.pdf)
 * [2023-09-12 Fewer Losers or More Winners](./2023-09-12-fewer-losers-more-winners.pdf)
 * [2023-10-11 Further Thoughts on Sea Change](./2023-10-11-further-thoughts-on-sea-change.pdf)
+* [2024-01-09 Easy Money](./2024-01-09-Easy-Money.pdf)
