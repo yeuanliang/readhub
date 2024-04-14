@@ -185,7 +185,8 @@
   * A Tale of Two Cities
   * The Berkshire Partnership
 * 2021 letter
-* 2022 lette
+* 2022 letter
+* 2023 letter
 
 ## Resource
 
