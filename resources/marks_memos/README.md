@@ -149,3 +149,7 @@
 * [2023-09-12 Fewer Losers or More Winners](./2023-09-12-fewer-losers-more-winners.pdf)
 * [2023-10-11 Further Thoughts on Sea Change](./2023-10-11-further-thoughts-on-sea-change.pdf)
 * [2024-01-09 Easy Money](./2024-01-09-Easy-Money.pdf)
+* [2024-04-17 The Indispensability of Risk](./2024-04-17-the-indispensability-of-risk.pdf)
+* [2024-05-08 The Impact of Debt](./2024-05-08-the-impact-of-debt.pdf)
+* [2024-07-17 The Folly of Certainty](./2024-07-17-the-folly-of-certainty.pdf)
+* [2024-08-22 Mr Market Miscalculates](./2024-08-22-mr-market-miscalculates.pdf)
