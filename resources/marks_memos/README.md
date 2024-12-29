@@ -154,3 +154,4 @@
 * [2024-07-17 The Folly of Certainty](./2024-07-17-the-folly-of-certainty.pdf)
 * [2024-08-22 Mr Market Miscalculates](./2024-08-22-mr-market-miscalculates.pdf)
 * [2024-09-19 Shall We Repeal the Laws of Economics?](./2024-09-19-shall-we-repeal-the-laws-of-economics.pdf)
+* [2024-10-22 Ruminating on Asset Allocation](./2024-10-22-ruminating-on-asset-allocation.pdf)
