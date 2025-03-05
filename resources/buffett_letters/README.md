@@ -187,6 +187,7 @@
 * 2021 letter
 * 2022 letter
 * 2023 letter
+* 2024 letter
 
 ## Resource
 
