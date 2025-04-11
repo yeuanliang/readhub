@@ -156,3 +156,5 @@
 * [2024-09-19 Shall We Repeal the Laws of Economics?](./2024-09-19-shall-we-repeal-the-laws-of-economics.pdf)
 * [2024-10-22 Ruminating on Asset Allocation](./2024-10-22-ruminating-on-asset-allocation.pdf)
 * [2025-01-07 On Bubble Watch](./2025-01-07-on-bubble-watch.pdf)
+* [2025-03-06 Gimme Credit](./2025-03-06-gimme-credit.pdf)
+* [2025-04-09 Nobody Knows (Yet Again)](./2025-04-09-nobody-knows-yet-again.pdf)
