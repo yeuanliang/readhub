@@ -1,6 +1,6 @@
 # Fuzzy Math And Stock Options
 
-By Warren BuffettJuly 6, 2004
+By Warren Buffett July 6, 2004
 
 Until now the record for mathematical lunacy by a legislative body has been held by the Indiana House of Representatives, which in 1897 decreed by a vote of 67 to 0 that pi -- the ratio of the circumference of a circle to its diameter -- would no longer be 3.14159 but instead be 3.2. Indiana schoolchildren momentarily rejoiced over this simplification of their lives. But the Indiana Senate, composed of cooler heads, referred the bill to the Committee for Temperance, and it eventually died.
 
